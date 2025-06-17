@@ -20,4 +20,4 @@ A picture of the GUI
 
 An example of an error
 
-![image](https://github.com/user-attachments/assets/7af70e92-7da0-4a15-8224-4def8277a373)6
+![image](https://github.com/user-attachments/assets/7af70e92-7da0-4a15-8224-4def8277a373)
